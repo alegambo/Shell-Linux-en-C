@@ -20,7 +20,7 @@ Shell-Gamboa-Casasa:\\>"
 
 6-Con esto se habrá ejecutado correctamente el programa.
 
-#Funcionalidades
+# Funcionalidades
 
 Puede digitar cualquier comando siempre y cuando no ocupe moverse de directorio.
 
